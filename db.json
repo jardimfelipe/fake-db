@@ -1,0 +1,85 @@
+{
+  "sellers": {
+    "seller": {
+      "products": [
+        {
+          "title": "Notebook Dell Ispiron",
+          "price": "3400"
+        }
+      ],
+      "fulfillment": {
+        "estoqueAlto": 60,
+        "estoqueSemGiro": 2,
+        "estoqueAReabastecer": 35,
+        "estoqueNormal": 5,
+        "total": 102
+      },
+      "marketplace": {
+        "pendenciaEan": 4,
+        "inativo": 6,
+        "pendenciaPreco": 12,
+        "dimensao": 3,
+        "peso": 2,
+        "total": 12
+      },
+      "ordersShare": {
+        "percent": 55,
+        "safe": "R$ 19.890,00"
+      }
+    }
+  },
+  "stock": {
+    "stockSituation": {
+      "alto": 60,
+      "semGiro": 20,
+      "normal": 10,
+      "reabastecer": 10
+    }
+  },
+  "orders": [
+    {
+      "ranking": 1,
+      "regiao": "Sudedeste",
+      "uf": "SP",
+      "idb2w": "727000",
+      "nome": "Nome do produto",
+      "numeroPedidos": 450,
+      "total": "R$230.203,20",
+      "totalPorcentagem": "10,6%",
+      "curva": "A"
+    },
+    {
+      "ranking": 2,
+      "regiao": "Sudedeste",
+      "uf": "SP",
+      "idb2w": "770010",
+      "nome": "Nome do produto",
+      "numeroPedidos": 450,
+      "total": "R$230.203,20",
+      "totalPorcentagem": "10,6%",
+      "curva": "A"
+    },
+    {
+      "ranking": 3,
+      "regiao": "Sudedeste",
+      "uf": "SP",
+      "idb2w": "770200",
+      "nome": "Nome do produto",
+      "numeroPedidos": 450,
+      "total": "R$230.203,20",
+      "totalPorcentagem": "10,6%",
+      "curva": "A"
+    },
+    {
+      "ranking": 4,
+      "regiao": "Sudedeste",
+      "uf": "SP",
+      "idb2w": "77000",
+      "nome": "Nome do produto",
+      "numeroPedidos": 450,
+      "total": "R$230.203,20",
+      "totalPorcentagem": "10,6%",
+      "curva": "A"
+    }
+  ]
+}
