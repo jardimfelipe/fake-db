@@ -81,5 +81,31 @@
       "totalPorcentagem": "10,6%",
       "curva": "A"
     }
+  ],
+  "stockManagement": [
+    {
+      "idB2w": "77000",
+      "sku": "sss",
+      "nomeProduto": "Nome do produto",
+      "b2wMarketPlace": "345",
+      "suaLoja": "300",
+      "valorPercentual": 50,
+      "emRecebimento": "150",
+      "disponivel": "0",
+      "situacao": "reabastecer",
+      "sugestao": "340"
+    },
+    {
+      "idB2w": "77000",
+      "sku": "sss",
+      "nomeProduto": "Nome do produto",
+      "b2wMarketPlace": "345",
+      "suaLoja": "300",
+      "valorPercentual": 50,
+      "emRecebimento": "150",
+      "disponivel": "0",
+      "situacao": "reabastecer",
+      "sugestao": "340"
+    }
   ]
 }
